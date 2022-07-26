@@ -74,4 +74,4 @@ Methods to obtaining data from tables:
 For example, for a given data
 
 ![](https://softserve.academy/draftfile.php/91405/user/draft/954268972/db_dat.png)
-вы должны получить методом **getAllJavaDevelopers()**     =>    **\[Ира, Иван, Петр\]** .
+ви повинні отримати методом getAllJavaDevelopers() => [Іра, Іван, Петро] .
