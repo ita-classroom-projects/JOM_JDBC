@@ -847,10 +847,6 @@ public class DBTest {
             myUtils.insertTableRoles("DevOps");
             myUtils.insertTableRoles("QC");
             //
-            myUtils.insertTableRoles("Developer");
-            myUtils.insertTableRoles("DevOps");
-            myUtils.insertTableRoles("QC");
-            //
             myUtils.insertTableDirections("Java");
             myUtils.insertTableDirections("Python");
             //
