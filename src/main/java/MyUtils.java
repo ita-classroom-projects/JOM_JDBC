@@ -54,7 +54,7 @@ public class MyUtils {
 		//your code
 	}
 	
-	public void createTableEmployee() throws SQLException {
+	public void createTableEmployees() throws SQLException {
 		//your code
 	}
 	
@@ -74,7 +74,7 @@ public class MyUtils {
 		//your code
 	}
 
-	public void insertTableEmployee(String firstName, String roleName, String projectName) throws SQLException {
+	public void insertTableEmployees(String firstName, String roleName, String projectName) throws SQLException {
 		//your code
 	}
 
@@ -103,7 +103,7 @@ public class MyUtils {
 		return null; // return not null, write your code
 	}
 
-	public List<String> getAllDirestion() throws SQLException {
+	public List<String> getAllDirections() throws SQLException {
 
 		return null; // return not null, write your code
 	}
@@ -113,7 +113,7 @@ public class MyUtils {
 		return null; // return not null, write your code
 	}
 
-	public List<String> getAllEmployee() throws SQLException {
+	public List<String> getAllEmployees() throws SQLException {
 
 		return null; // return not null, write your code
 	}
