@@ -66,9 +66,14 @@ You need to design a database for a company that works on various projects, each
 - public List<String> getAllJavaDevelopers() throws SQLException
 
 For example, for a given data:
+
 ![image](https://github.com/user-attachments/assets/4ca4f295-d55e-46dc-baa9-c3b1375ba577)
+
 ![image](https://github.com/user-attachments/assets/1e126f15-6511-4525-bbc5-d424bba304f8)
+
 ![image](https://github.com/user-attachments/assets/d8def5ee-f503-4404-b004-a64a39f9c98a)
+
 ![image](https://github.com/user-attachments/assets/213a1bad-3d63-43ca-ba9a-ca65c048a1e4)
+
 
 you should get by method getAllJavaDevelopers() => [Alex, Sam, Charlie] .
